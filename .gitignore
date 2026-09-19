@@ -1,0 +1,7 @@
+.env
+.streamlit/secrets.toml
+*.session
+*.session-journal
+broadcaster.log
+__pycache__/
+*.pyc
